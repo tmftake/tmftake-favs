@@ -6,7 +6,7 @@ public class Otameshi {
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println("Hello Git-dev2.");
+        System.out.println("Hello Git-dev3.");
     }
 
 }
